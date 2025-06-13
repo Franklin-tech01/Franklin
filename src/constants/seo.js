@@ -1,10 +1,10 @@
 const image =
-  "https://res.cloudinary.com/dkoe20rzl/image/upload/v1692130992/cover_xhnhes.png";
-const creator = "VickyJay";
+  "https://franklin-mike.vercel.app/images/hero.jpg";
+const creator = "Franklin Mike";
 const author = creator;
 
 export const url = (slug) => {
-  return `https://victorola.me/${slug ?? ""}`;
+  return `https://franklin-mike.vercel.app/${slug ?? ""}`;
 };
 export const SEOdata = {
   homePage: {
@@ -12,8 +12,8 @@ export const SEOdata = {
     image,
     creator,
     url: url(),
-    title: "VickyJay - Creative Frontend Engineer",
+    title: "Franklin Mike - Frontend Engineer",
     description:
-      "I enjoy creating frontend solutions with solid foundations, scalability, and excellent user experiences.",
+      'I build scalable and accessible frontend solutions with a focus on user experience. I am passionate about creating thoughtful and inclusive experiences that adhere to web standards.'
   },
 };
