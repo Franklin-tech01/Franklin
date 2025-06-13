@@ -1,4 +1,4 @@
-# VickyJay - Personal Portfolio Website
+<!-- # VickyJay - Personal Portfolio Website
 
 ![VickyJay's Portfolio Screenshot](./public/images/cover.png)
 
@@ -48,4 +48,4 @@ If you have any questions or would like to get in touch, you can reach me at:
 - change the services section into an array and map it.
 - 404 page - done ✔✔
 
-Thank you for visiting my portfolio repository!
+Thank you for visiting my portfolio repository! -->
