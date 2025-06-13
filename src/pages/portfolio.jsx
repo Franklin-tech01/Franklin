@@ -15,7 +15,7 @@ function Home() {
 			<SEO
 				title='Franklin Mike - Frontend Engineer'
 				author='Franklin Mike Awa'
-				description='I enjoy creating frontend solutions with solid foundations, scalability, and excellent user experiences.'
+				description='I build scalable and accessible frontend solutions with a focus on user experience. I am passionate about creating thoughtful and inclusive experiences that adhere to web standards.'
 			/>
 			<main>
 				<Navbar />

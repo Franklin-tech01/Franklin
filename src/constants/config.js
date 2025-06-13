@@ -1,6 +1,6 @@
 export const META_TITLE = "Franklin Mike - Frontend Engineer";
 export const META_DESCRIPTION =
-  "I enjoy creating frontend solutions with solid foundations, scalability, and excellent user experiences.";
+  "I build scalable and accessible frontend solutions with a focus on user experience. I am passionate about creating thoughtful and inclusive experiences that adhere to web standards.";
 
 // Spotify data
 export const token =
